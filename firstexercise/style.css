@@ -1,0 +1,14 @@
+    .div1, .div3, .div2{
+        
+        margin: auto;
+        width: 80%; 
+        text-align: center; 
+        box-shadow: 5px 5px 6px gray;
+        padding: 5px 5px 5px 5px;
+    }
+
+    
+h1{
+    font-size: 30px; color: blue;
+    /*background-color: grey;*/
+}

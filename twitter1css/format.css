@@ -1,0 +1,128 @@
+
+
+.main{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    /*border: solid;*/
+    margin: auto;
+    
+   
+}
+
+.container1{
+    background-image: url("./twitb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    width: 100%;
+    flex-direction: row;
+   
+    
+
+}
+
+.container2{
+    width: 100%;
+    justify-content: space-between;
+    
+
+}
+
+.imagebuttondiv{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 150px;
+    
+}
+.div1{
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 150px;
+    
+}
+
+.left{
+    padding-right: 150px;
+    padding-left: 150px;
+    }
+
+
+
+.div5{
+    padding-right: 150px;
+    padding-left: 150px;
+    
+}
+.image1{
+    width: 50px;
+}
+.bk{
+
+    width: 20px;
+}
+.button1{
+    width: 50px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: white;
+    border-color:#0099ff;
+    color: blue;
+    box-shadow: none;
+}
+
+.button2{
+    background-color:#0099ff;
+    color: white;
+    border-color:#0099ff;
+    width: 100%;
+    height: 25px;
+    border-radius: 15px;
+    box-shadow: 0px;
+  
+}
+
+.button3{
+    width: 100%;
+    height: 25px;
+    display: inline-block;
+    border-color: blue;
+    color:#4d4df7;
+    border-radius: 15px;
+    background-color: white;
+}
+
+
+.paragraph1{
+    font-weight: bold;
+}
+
+.heading4{
+    font-weight: bold;
+    font-size: 20px;
+    word-spacing: 0.3cm;
+}
+
+Ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+li{
+    margin: 0.5px;
+    padding: 0.5px;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: gray;
+}

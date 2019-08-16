@@ -1,0 +1,132 @@
+.main{
+    height: 600px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: content-box;
+  
+    }
+
+    .parent{
+        height: 90%;
+        width: 100%;
+       
+        
+        }
+
+    .child1{
+        height: 100%;
+       
+        background-image: url("./tw.png");
+        background-repeat: no-repeat;
+        color: white;
+        font-weight: bold;
+        padding-left: 70px;
+        padding-right: 70px;
+        
+
+            }
+
+    .child2{
+        height: 100%;
+       
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .diva{
+        height: 110px;
+    }
+    
+    .sidediv{
+        width: 50px;
+    }
+
+
+    .blankdiv{
+        height: 50px;
+    }
+    
+
+.footer{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+    .text2{
+       margin-right: 5px;
+        width: 200px;
+        background-color:#e6e6e6;
+       
+    }
+
+    .text1{
+        margin-right: 5px;
+         width: 120px;
+         background-color:#e6e6e6;
+        
+     }
+
+    .button1{
+        padding: 8px;
+        border-radius: 20px;
+        border-color: blue;
+        width: 65px;
+        
+        
+    }
+
+
+
+    .button2{
+        border-radius: 20px;
+        width: 300px;
+        padding: 2px;
+    }
+    
+    .button3{
+        
+        border-radius: 20px;
+        border-color: blue;
+        width: 300px;
+        padding: 2px;
+        color: blue;
+        
+    }
+
+    .divbut{
+        padding: 5px;
+    }
+    
+    .para1{
+        font-size: 10px;
+        margin: 5px;
+         width: 120px;
+    }
+
+    Ul{
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+        justify-content: space-around;
+      
+    }
+    
+    li{
+        margin: 0px;
+        padding: 0px;
+    
+    }
+    
+    
+   .footerlink{
+        text-decoration: none;
+        color: gray;
+    }
+
+    .parablue{
+        font-size: 12px;
+    }
+
+    .icondiv{
+        
+        padding-right: 25px;
+    }
