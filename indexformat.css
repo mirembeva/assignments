@@ -1,0 +1,15 @@
+.parent{
+    height: 600px;
+    margin: auto;
+    }
+
+#title{
+    text-align: center;
+}
+
+.footer{
+    height: 20px;
+    background-color:  #3385ff;
+    width: 95%;
+    margin: auto;
+}
