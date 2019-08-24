@@ -8,8 +8,14 @@
 }
 
 .footer{
-    height: 20px;
+    height: 30px;
     background-color:  #3385ff;
     width: 95%;
     margin: auto;
+}
+
+.p2{
+    color: white;
+    text-align: center;
+    font-size: 18px;
 }
